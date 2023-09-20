@@ -1,7 +1,7 @@
 Hi there 👋, I'm Volodymyr
 
 
-<h2>I'm a Junior Developer from Ukraine</h3>
+<h2>I'm a Middle Developer from Ukraine</h3>
 
 💪 I like to write code
 🥅 I am fast learning new things
